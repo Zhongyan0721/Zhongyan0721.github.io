@@ -29,13 +29,13 @@ My research interests include **LLM systems**, **AI agents**, **explainable AI**
 
 # 📝 Publications 
 
-- [FIRE-Bench: Evaluating Research Agents on the Rediscovery of Scientific Insights](https://github.com) *(ICML 2026 Under Review)*
+- [FIRE-Bench: Evaluating Research Agents on the Rediscovery of Scientific Insights](https://arxiv.org/abs/2602.02905) *(ICML 2026 Under Review)*
   Zhen Wang\*, Fan Bai\*, **Zhongyan Luo**\*, Jinyan Su, Kaiser Sun, Weiqi Liu, Albert Chen, Jieyuan Liu, Kun Zhou, Claire Cardie, Mark Dredze, Eric P. Xing, Zhiting Hu
 
-- [DeepPersona: A Generative Engine for Scaling Deep Synthetic Personas](https://github.com) *(NeurIPS 2025 LAW Spotlight)*
+- [DeepPersona: A Generative Engine for Scaling Deep Synthetic Personas](https://arxiv.org/abs/2511.07338) *(NeurIPS 2025 LAW Spotlight)*
   Zhen Wang\*, Yufan Zhou\*, **Zhongyan Luo**, Lyumanshan Ye, Adam Wood, Man Yao, Saab Mansour, Luoshang Pan
 
-- [Exploration and practice of human-machine trustworthy mechanism in XAI](https://github.com) *(Published on Big Data Research)*
+- [Exploration and practice of human-machine trustworthy mechanism in XAI](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=baKADWoAAAAJ&citation_for_view=baKADWoAAAAJ:u5HHmVD_uO8C) *(Published on Big Data Research)*
   **Zhongyan Luo**, Zhengxun Xia, Jianfei Tang, Yifan Yang, Hongshan Yang, Haohua Li, Yan Zhang
 
 - *(Patent)* SQL generation method, device, equipment and medium based on background knowledge enhancement
