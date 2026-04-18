@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master's student in Machine Learning at **Carnegie Mellon University (CMU)**. I received my B.S. in Data Science from the **University of California, San Diego (UCSD)** and the **University of California, Santa Barbara (UCSB)** (GPA: 3.96/4.0, Provost Honor, Top 2%).
 
-My research interests include **LLM systems**, **AI agents**, **explainable AI**, and **machine learning**. I have experience building large-scale AI systems, developing research agents, and optimizing language model training and inference pipelines. I am currently a Research Assistant at **UCSD MixLab x Meta AI**, working on AI research agents and personalization.
+My research interests include **LLM systems**, **AI agents**, **explainable AI**, and **machine learning**. I have experience building large-scale AI systems, developing research agents, and optimizing language model training and inference pipelines. I am currently a Research Assistant at **UCSD MixLab x Meta AI**, working on AI research agents and personalization, advised by Prof. [Zhiting Hu](https://zhiting.ucsd.edu/), Prof. [Hao Zhang](https://haozhang.ai/), and Dr. [Zhen Wang](https://zhenwang9102.github.io/).
 
 
 # 🔥 News
