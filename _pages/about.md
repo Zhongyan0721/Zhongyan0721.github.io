@@ -23,9 +23,9 @@ My research interests include **LLM systems**, **AI agents**, **explainable AI**
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Started research collaboration with UCSD MixLab x Meta AI on AI Research Agents.
-- *2025.02*: &nbsp;🎉🎉 Language Model System Optimization project completed — achieved 5x speedup via Speculative Decoding on TPU.
-- *2024.09*: &nbsp;🎉🎉 Paper "DeepPersona" accepted as **Spotlight** at NeurIPS 2025 LAW Workshop.
+- *2026.02*: &nbsp;🎉🎉 Paper "FIRE-Bench" submitted to **ICML 2026** (Under Review).
+- *2025.11*: &nbsp;🎉🎉 Paper "DeepPersona" accepted as **Spotlight** at NeurIPS 2025 LAW Workshop.
+- *2025.01*: &nbsp;🎉🎉 Paper "Exploration and practice of human-machine trustworthy mechanism in XAI" published on **Big Data Research**.
 
 # 📝 Publications 
 
