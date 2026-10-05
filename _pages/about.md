@@ -17,20 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student in Machine Learning at **Carnegie Mellon University (CMU)**. I received my B.S. in Data Science from the **University of California, San Diego (UCSD)** and the **University of California, Santa Barbara (UCSB)** (GPA: 3.96/4.0, Provost Honor, Top 2%).
+Hi there! My name is Zhongyan Luo. Currently, I am a Master's student in Machine Learning at **Carnegie Mellon University (CMU)**. I received my B.S. in Data Science from the **University of California, San Diego (UCSD)**.
 
-My research interests include **LLM systems**, **AI agents**, **explainable AI**, and **machine learning**. I have experience building large-scale AI systems, developing research agents, and optimizing language model training and inference pipelines. I am currently a Research Assistant at **UCSD MixLab x Meta AI**, working on AI research agents and personalization, advised by Prof. [Zhiting Hu](https://zhiting.ucsd.edu/), Prof. [Hao Zhang](https://haozhang.ai/), and Dr. [Zhen Wang](https://zhenwang9102.github.io/).
+My research interests include **AI Agents**, **AI Infra**, and **Scalable Machine Learning**. Previously, I interned at Teradata as an AI Engineer and focused on Learning Agent (self-evolving in production traffic). Earlier, I interned at Transwarp and focused on AI Infra. I was a Research Assistant at **UCSD MixLab**, working on Auto Research, Inference Acceleration and AI Personalization, advised by Prof. [Zhiting Hu](https://zhiting.ucsd.edu/), Prof. [Hao Zhang](https://haozhang.ai/), and Prof. [Zhen Wang](https://zhenwang9102.github.io/).
+
+Looking for 2027 Summer Internship Opportunity!
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Paper "FIRE-Bench" submitted to **ICML 2026** (Under Review).
+- *2026.03*: &nbsp;🎉🎉 Paper "FIRE-Bench" accepted to **ICML 2026**.
 - *2025.11*: &nbsp;🎉🎉 Paper "DeepPersona" accepted as **Spotlight** at NeurIPS 2025 LAW Workshop.
 - *2025.01*: &nbsp;🎉🎉 Paper "Exploration and practice of human-machine trustworthy mechanism in XAI" published on **Big Data Research**.
 
 # 📝 Publications 
 
-- [FIRE-Bench: Evaluating Research Agents on the Rediscovery of Scientific Insights](https://arxiv.org/abs/2602.02905) *(ICML 2026 Under Review)*
+- [FIRE-Bench: Evaluating Research Agents on the Rediscovery of Scientific Insights](https://arxiv.org/abs/2602.02905) *(ICML 2026)*
   Zhen Wang\*, Fan Bai\*, **Zhongyan Luo**\*, Jinyan Su, Kaiser Sun, Weiqi Liu, Albert Chen, Jieyuan Liu, Kun Zhou, Claire Cardie, Mark Dredze, Eric P. Xing, Zhiting Hu
+
+- [Paper Agent Network: Literature-Grounded Multi-Agent Program Discovery](https://openreview.net/) *(In Submission)*
+  Xinle Yu, Enze Ma, **Zhongyan Luo**, Tianchun Wang, Shuaichen Chang, Zhen Wang
+
+- [PrimeScientist: Strategic Allocation of Research Effort in Autonomous Research](https://arxiv.org/abs/2609.178465) *(In Submission)*
+  Xinle Yu, Fan Bai, Kaiser Sun, Hengshuo Miao, Abhay Anand, **Zhongyan Luo**, Kun Zhou, Zhen Wang
 
 - [DeepPersona: A Generative Engine for Scaling Deep Synthetic Personas](https://arxiv.org/abs/2511.07338) *(NeurIPS 2025 LAW Spotlight)*
   Zhen Wang\*, Yufan Zhou\*, **Zhongyan Luo**, Lyumanshan Ye, Adam Wood, Man Yao, Saab Mansour, Luoshang Pan
@@ -43,39 +51,18 @@ My research interests include **LLM systems**, **AI agents**, **explainable AI**
 - *(Patent)* Information classification method, device, equipment and storage medium
 - *(Patent)* Method and device for query processing of label data, computer equipment and medium
 
-# 🎖 Honors and Awards
-- *2022 - 2024* Provost Honor, University of California, Santa Barbara (Top 2%)
-- *2022 - 2024* GPA: 3.96/4.0
-
 # 📖 Educations
 - *2026.09 - 2028.06*, M.S. in Machine Learning, Carnegie Mellon University (CMU), Pittsburgh, PA
 - *2024.09 - 2026.06*, B.S. in Data Science, University of California, San Diego (UCSD), San Diego, CA
 - *2022.09 - 2024.06*, B.S. in Data Science, University of California, Santa Barbara (UCSB), Santa Barbara, CA
 
 # 💻 Experience
-- *2025.04 - Present*, Research Assistant, [UCSD MixLab x Meta AI](https://github.com)
-  - Developed AI Research Agent using LangGraph, integrating brainstorming, multi-agent discussion and runtime tools.
-  - Benchmarked scientific discovery ability of AI Research Agents by building a containerized environment using Docker.
-  - Built large scale human-attribute taxonomy and synthesized MB-level profiles, promoting better personalization in AI.
-  - Constructed a meta-learning framework for self-evolving agent skills, achieving 40% accuracy increase on SkillsBench.
-
-- *2024.06 - 2024.09*, AI Research Intern, [Transwarp](https://github.com)
-  - Implemented LoRA-based fine-tuning pipeline in PyTorch improving downstream tasks accuracy by around 15%.
-  - Established automated evaluation pipeline for 20+ Text2SQL benchmarks via vLLM, LLM APIs and Python SQLite.
-  - Built finance-oriented RAG system that integrates 200+ multimodal documents, achieving 30% accuracy increase.
-  - Built an XAI (Explainable AI) module through a single interface, making model behavior easier to audit and debug.
-
-- *2023.06 - 2023.09*, Software Engineer Intern, [Transwarp](https://github.com)
-  - Contributed to Kubernetes-based LLM training platform; used TorchX and Volcano to optimize resource allocation.
-  - Integrated Prometheus and Grafana dashboards for training & inference workload, reducing debugging time by 50%.
-  - Built a security gateway for AI applications and deployed via CI/CD pipelines, reducing information leakage by 98%.
-  - Automated microservice releases using Docker and Kubernetes deployment workflow for repeatable rollouts & scaling.
+- *2026.06 - 2026.08*, AI Engineer Intern, [Teradata](https://www.teradata.com/)
+- *2025.04 - 2026.04*, Research Assistant, [UCSD MixLab](https://maitrix.org/)
+- *2024.06 - 2024.09*, AI Research Intern, [Transwarp](https://www.transwarp.io/)
+- *2023.06 - 2023.09*, Software Engineer Intern, [Transwarp](https://www.transwarp.io/)
 
 # 🛠 Projects
 - *2025.02*, **Language Model System Optimization** \| Python, NLP, Web Scraping
-  - Improved training throughput and memory utilization by enabling mixed precision, ZeRO-3, and FlashAttention.
-  - Transfer inference accelerating algorithms including Speculative Decoding from GPU to TPU, achieving 5x speedup.
-
-- *2024.04*, **Path Tracing Render** \| C++, Computer Graphics, Offline Rendering
-  - Engineered path tracing renderer in C++ implementing Multiple Importance Sampling and Microfacet BRDF.
-  - Integrated in-depth acceleration structures including BVH trees handling complex scenes with 100K+ polygons.
+  - Ported inference acceleration algorithms including Speculative Decoding from GPU to TPU, achieving 3x avg speedup.
+  - PR (#1868) merged to vLLM project TPU inference repo (400+ stars).

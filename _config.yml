@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhongyan (Hugo) Luo"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/my_photo.jpg"
   bio              : "M.S. in Machine Learning @ CMU"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhongyan-luo-a85439264"
+  linkedin         : "zhongyan-luo"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
