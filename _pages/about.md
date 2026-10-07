@@ -47,7 +47,7 @@ Looking for 2027 Summer Internship Opportunity!
   **Zhongyan Luo**, Zhengxun Xia, Jianfei Tang, Yifan Yang, Hongshan Yang, Haohua Li, Yan Zhang
 
 - [LOCALE: Ego-Graph Orientation with Non-Collider Constraints for LLM-Assisted Causal Discovery](https://openreview.net/) *(In Submission)*
-  Xinle Yu, Fan Bai, Kaiser Sun, Hengshuo Miao, Abhay Anand, **Zhongyan Luo**, Kun Zhou, Zhen Wang
+  Zhaoxiang Feng, **Zhongyan Luo**, Mingyang Yao
 
 - *(Patent)* SQL generation method, device, equipment and medium based on background knowledge enhancement
 - *(Patent)* Question answering method and apparatus based on large language model, electronic device, and storage medium
