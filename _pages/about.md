@@ -46,6 +46,9 @@ Looking for 2027 Summer Internship Opportunity!
 - [Exploration and practice of human-machine trustworthy mechanism in XAI](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=baKADWoAAAAJ&citation_for_view=baKADWoAAAAJ:u5HHmVD_uO8C) *(Published on Big Data Research)*
   **Zhongyan Luo**, Zhengxun Xia, Jianfei Tang, Yifan Yang, Hongshan Yang, Haohua Li, Yan Zhang
 
+- [LOCALE: Ego-Graph Orientation with Non-Collider Constraints for LLM-Assisted Causal Discovery](https://openreview.net/) *(In Submission)*
+  Xinle Yu, Fan Bai, Kaiser Sun, Hengshuo Miao, Abhay Anand, **Zhongyan Luo**, Kun Zhou, Zhen Wang
+
 - *(Patent)* SQL generation method, device, equipment and medium based on background knowledge enhancement
 - *(Patent)* Question answering method and apparatus based on large language model, electronic device, and storage medium
 - *(Patent)* Information classification method, device, equipment and storage medium
@@ -66,3 +69,5 @@ Looking for 2027 Summer Internship Opportunity!
 - *2025.02*, **Language Model System Optimization** \| Python, NLP, Web Scraping
   - Ported inference acceleration algorithms including Speculative Decoding from GPU to TPU, achieving 3x avg speedup.
   - PR (#1868) merged to vLLM project TPU inference repo (400+ stars).
+
+{% include visitor-map.html %}

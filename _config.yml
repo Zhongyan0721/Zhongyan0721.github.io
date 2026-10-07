@@ -14,6 +14,9 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
+# visitor map
+mapmyvisitors_id         : "zbs611GffpgD9LUB_hVlakCtxDmgqcAlK8guhoKc7D8" # get the "d=" value from your MapMyVisitors widget code at https://mapmyvisitors.com/
+
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
