@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! My name is Zhongyan Luo. Currently, I am a Master's student in Machine Learning at **Carnegie Mellon University (CMU)**. I received my B.S. in Data Science from the **University of California, San Diego (UCSD)**.
+Hi there! My name is Zhongyan Luo. Currently, I am a first-year Master's student in Machine Learning at **Carnegie Mellon University (CMU)**. I received my B.S. in Data Science from the **University of California, San Diego (UCSD)**.
 
 My research interests include **AI Agents**, **AI Infra**, and **Scalable Machine Learning**. Previously, I interned at Teradata as an AI Engineer and focused on Learning Agent (self-evolving in production traffic). Earlier, I interned at Transwarp and focused on AI Infra. I was a Research Assistant at **UCSD MixLab**, working on Auto Research, Inference Acceleration and AI Personalization, advised by Prof. [Zhiting Hu](https://zhiting.ucsd.edu/), Prof. [Hao Zhang](https://haozhang.ai/), and Prof. [Zhen Wang](https://zhenwang9102.github.io/).
 
@@ -34,17 +34,17 @@ Looking for 2027 Summer Internship Opportunity!
 - [FIRE-Bench: Evaluating Research Agents on the Rediscovery of Scientific Insights](https://arxiv.org/abs/2602.02905) *(ICML 2026)*
   Zhen Wang\*, Fan Bai\*, **Zhongyan Luo**\*, Jinyan Su, Kaiser Sun, Weiqi Liu, Albert Chen, Jieyuan Liu, Kun Zhou, Claire Cardie, Mark Dredze, Eric P. Xing, Zhiting Hu
 
+- [Exploration and practice of human-machine trustworthy mechanism in XAI](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=baKADWoAAAAJ&citation_for_view=baKADWoAAAAJ:u5HHmVD_uO8C) *(Big Data Research 2025)*
+  **Zhongyan Luo**, Zhengxun Xia, Jianfei Tang, Yifan Yang, Hongshan Yang, Haohua Li, Yan Zhang
+
+- [DeepPersona: A Generative Engine for Scaling Deep Synthetic Personas](https://arxiv.org/abs/2511.07338) *(NeurIPS 2025 LAW Spotlight)*
+  Zhen Wang\*, Yufan Zhou\*, **Zhongyan Luo**, Lyumanshan Ye, Adam Wood, Man Yao, Saab Mansour, Luoshang Pan
+
 - [Paper Agent Network: Literature-Grounded Multi-Agent Program Discovery](https://openreview.net/) *(In Submission)*
   Xinle Yu, Enze Ma, **Zhongyan Luo**, Tianchun Wang, Shuaichen Chang, Zhen Wang
 
 - [PrimeScientist: Strategic Allocation of Research Effort in Autonomous Research](https://arxiv.org/abs/2609.178465) *(In Submission)*
   Xinle Yu, Fan Bai, Kaiser Sun, Hengshuo Miao, Abhay Anand, **Zhongyan Luo**, Kun Zhou, Zhen Wang
-
-- [DeepPersona: A Generative Engine for Scaling Deep Synthetic Personas](https://arxiv.org/abs/2511.07338) *(NeurIPS 2025 LAW Spotlight)*
-  Zhen Wang\*, Yufan Zhou\*, **Zhongyan Luo**, Lyumanshan Ye, Adam Wood, Man Yao, Saab Mansour, Luoshang Pan
-
-- [Exploration and practice of human-machine trustworthy mechanism in XAI](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=baKADWoAAAAJ&citation_for_view=baKADWoAAAAJ:u5HHmVD_uO8C) *(Published on Big Data Research)*
-  **Zhongyan Luo**, Zhengxun Xia, Jianfei Tang, Yifan Yang, Hongshan Yang, Haohua Li, Yan Zhang
 
 - [LOCALE: Ego-Graph Orientation with Non-Collider Constraints for LLM-Assisted Causal Discovery](https://openreview.net/) *(In Submission)*
   Zhaoxiang Feng, **Zhongyan Luo**, Mingyang Yao
